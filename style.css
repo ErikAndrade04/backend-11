@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+.claro{
+    background-color: #f4f4f4;
+    color: #000;
+}
+
+.escuro{
+    background-color: #1e1e1e;
+    color: #fff;
+}
+
+form{
+    background: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px 15px;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    margin-right: 10px;
+}
